@@ -14,4 +14,4 @@ First Version of Anubis Bot, if you want to use it you may need to change the fo
 Remember Anubis is designed for Pentesters Community, and we don´t offer support to any other implementations.
 
 
-https://images-cdn.exchange.art/non_live_data/creator_data/QrcwoLNCBOT9bEpCbdd5nWERGtI2/brands/Anubis/collections/Anubis/banner-e992baff-fee5-4960-9c2d-c73868526336.png?auto=avifwebp
+
