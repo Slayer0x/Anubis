@@ -11,7 +11,7 @@ First Version of Anubis Bot, if you want to use it you may need to change the fo
 
 🤖 We will update this repository with new versions of the BOT. 🤖 
 
-Remember Anubis is designed for Pentesters Community, and we don´t offer support to any other implementations.
+Remember Anubis is designed for SkullNet[SN] Telegram Community, and we don´t offer support to any other implementations.
 
 
 
